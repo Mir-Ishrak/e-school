@@ -1,0 +1,124 @@
+.article2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.nav-item button{
+    padding: 7px 30px;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    border: none;
+}
+.nav-title{
+    color: black;
+}
+.bg{
+    background-color: #F0FFF0;
+    padding-left: 120px;
+    padding-right: 100px;
+}
+button{
+    padding: 7px 30px;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    border: none;
+}
+.illustration{
+    width: 700px;
+}
+
+.discription{
+    text-align: justify;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.title{
+   font-size: 50px;
+   font-weight:900
+}
+h6{
+    color: #FD511A;
+}
+.green{
+    color: #21B573;
+    
+}
+.icon img{
+    width: 60px;
+    margin-left: 70px;
+    margin-bottom: 15px;
+    
+    
+}   
+.book img{
+    width: 50px;
+    margin-left: 70px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+.icon-pack{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.students{
+    box-shadow: 5px 5px 20px lightgray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.extra{
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+.pyschology img{
+    width: 420px;
+    padding: 10px 20px 0px 15px;
+}
+.pyschology{
+    margin-bottom: 100px;
+}
+.psy{
+    border: none;
+    box-shadow: 5px 5px 20px lightgrey;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    
+}
+.foot-section img{
+    width: 70px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+}
+.testimonial img{
+    width: 100px;
+    margin-right: 50px;
+}
+.testimonial{
+    padding: 0px 250px 0px 250px;
+    margin-bottom: 100px;
+}
+.useful{
+    
+    background-color: #282531;
+    color: white;
+    padding-left: 110px;
+    padding-bottom: 50px;
+}
+.col1{
+    padding-top: 50px;
+}
+.millions{
+    padding-top: 50px;
+}
+footer{
+    text-align: center;
+    background-color: #282531;
+    color: white;
+    padding-bottom: 20px;
+}
